@@ -3,7 +3,7 @@ layout: default
 title: "Scarlet Zhang"
 ---
 
-# 👋 Welcome to My Blog
+## 👋 Welcome to My Blog
 
 Hi, I'm **Scarlet Zhang** — a front-end engineer and product thinker who loves design and storytelling.  
 Here I share my journey through **front-end development**, **product design**, and **building things people love**.
@@ -13,7 +13,7 @@ Here I share my journey through **front-end development**, **product design**, a
 - Product thinking & UX
 - Design and creativity
 
-## My latest posts
+## ✨ My latest posts
 {% assign recent_posts = site.posts | slice: 0, 5 %}
 {% if recent_posts.size > 0 %}
 <ul class="home-post-list">

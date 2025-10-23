@@ -22,24 +22,24 @@ The rest of the design stays simple: white backgrounds with black text. This kee
 ## A Human-Centered Approach
 From a human-centered design view, this palette does three things:
 
-Guides attention (yellow marks interaction)
+- Guides attention (yellow marks interaction)
 
-Creates positive emotions (warm, welcoming atmosphere)
+- Creates positive emotions (warm, welcoming atmosphere)
 
-Builds consistency (students quickly learn what to click)
+- Builds consistency (students quickly learn what to click)
 
 
 
 ## Why Not Other Colors?
 We thought about blue, green, even purple. But they didn’t feel right:
 
-Blue felt too corporate and serious.
+- Blue felt too corporate and serious.
 
-Green leaned more towards health or finance.
+- Green leaned more towards health or finance.
 
-Purple carried a sense of luxury, but not approachability.
+- Purple carried a sense of luxury, but not approachability.
 
-Yellow was the one that truly matched our vision of a campus social space—bright, energetic, and inclusive.
+- Yellow was the one that truly matched our vision of a campus social space—bright, energetic, and inclusive.
 
 ---
 
