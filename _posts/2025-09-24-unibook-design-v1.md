@@ -17,7 +17,7 @@ On campus, where students are often looking for connection and belonging, we wan
 Keeping It Simple: White Background, Black Text
 The rest of the design stays simple: white backgrounds with black text. This keeps everything clean, readable, and stress-free. Students don’t need to think about the interface; they can focus on the posts, events, and conversations that connect them.
 
-![Unibook](/assets/img/unibook1.png "Unibook")
+![Unibook]({{ "/assets/img/unibook1.png" | relative_url }})
 
 ## A Human-Centered Approach
 From a human-centered design view, this palette does three things:
