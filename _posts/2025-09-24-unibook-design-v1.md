@@ -7,6 +7,9 @@ tags:
   - Design
   - UX
 ---
+
+![Unibook]({{ "/assets/img/unibook1.png" | relative_url }})
+
 When we started designing Unibook, we quickly realized that color was not just decoration. It’s the very first thing students notice when they open the app. Before they read a single word, the colors already tell them how to feel. 🤩 Do they feel welcomed? Do they feel stressed? Or do they feel excited to explore? 🥰。
 
 ## Why Yellow?
@@ -17,7 +20,6 @@ On campus, where students are often looking for connection and belonging, we wan
 Keeping It Simple: White Background, Black Text
 The rest of the design stays simple: white backgrounds with black text. This keeps everything clean, readable, and stress-free. Students don’t need to think about the interface; they can focus on the posts, events, and conversations that connect them.
 
-![Unibook]({{ "/assets/img/unibook1.png" | relative_url }})
 
 ## A Human-Centered Approach
 From a human-centered design view, this palette does three things:
