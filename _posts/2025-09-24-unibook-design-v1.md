@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "🎨 The Beauty of Unibook Design Vol.1 — Color & Emotion"
+title: "🎨 The Beauty of Unibook Design — Vol.1: Color & Emotion"
 description: ""
 tags:
   - Front-end
