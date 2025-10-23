@@ -1,12 +1,14 @@
 ---
 layout: default
 title: "🎨 The Beauty of Unibook Design Vol.1 — Color & Emotion"
-description: "When we started designing Unibook, we quickly realized that color was not just decoration. It’s the very first thing students notice when they open the app. Before they read a single word, the colors already tell them how to feel. 🤩 Do they feel welcomed? Do they feel stressed? Or do they feel excited to explore? 🥰。"
+description: ""
 tags:
   - Front-end
   - Design
   - UX
 ---
+When we started designing Unibook, we quickly realized that color was not just decoration. It’s the very first thing students notice when they open the app. Before they read a single word, the colors already tell them how to feel. 🤩 Do they feel welcomed? Do they feel stressed? Or do they feel excited to explore? 🥰。
+
 ## Why Yellow?
 For Unibook, we chose yellow as the highlight color. It’s cheerful, optimistic, and full of energy—the same reason why brands like McDonald’s, Snapchat, and IKEA use it. Yellow has this unique power to feel both fun and inviting.
 

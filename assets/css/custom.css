@@ -1,3 +1,8 @@
+.page-header {
+  background-color: #6a11cb;
+  background-image: linear-gradient(90deg, rgb(0, 196, 204) 0%, rgb(90, 50, 250) 50%, rgb(125, 42, 232) 100%);
+}
+
 .page-nav {
   margin-top: 1.5rem;
   display: flex;
@@ -27,4 +32,14 @@
 .page-nav .nav-link-active {
   background-color: rgba(255, 255, 255, 0.25);
   border-color: rgba(255, 255, 255, 0);
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  color: #5A32FA;
+  font-weight: 600;
 }

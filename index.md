@@ -13,4 +13,4 @@ Here I share my journey through **front-end development**, **product design**, a
 - Product thinking & UX
 - Design and creativity
 
-✨ Check out my latest posts 👉 [Blog Archive](/_posts)
+✨ Check out my latest posts 👉 [Blog Archive](/blog.html)
