@@ -14,10 +14,16 @@ You don't need to be 100% ready to shine.
 
 Showing up at 60% is shining in itself.
 
-| Stop shrinking |  | Give yourself permission to shine |
-| --- | --- | --- |
-| I used to say: |  | The point of "Now I'm shining" isn't "You've gotten stronger"—it's about revealing your original light. |
-| Worried about what others think of you. Hesitant to speak up. Worried about not being good enough or professional. Careful in front of people you like, afraid of "not performing well" in front of mentors. |  | Energy. Emotional empathy. Social skills. Warmth. Creativity. Thinking ability. Speed of growth. Motivation. Presence. |
+| Stop shrinking  | Give yourself permission to shine |
+| --- | --- |
+| I used to say: | The point of "Now I'm shining" isn't "You've gotten stronger"—it's about revealing your original light. |
+| Worried about what others think of you. Hesitant to speak up. Worried about not being good enough or professional. Careful in front of people you like, afraid of "not performing well" in front of mentors. |  Energy. Emotional empathy. Social skills. Warmth. Creativity. Thinking ability. Speed of growth. Motivation. Presence. |
+
+
+
+# Habits are the compound interest of self-improvement
+![Habits_are_compound_interest]({{ "/assets/img/Habits_are_compound_interest.png" | relative_url }})
+
 
 # Reputation
 > You can't build a reputation on what you're going to do.
@@ -27,7 +33,7 @@ Showing up at 60% is shining in itself.
 
 
 
-# NETWORKING
+# Networking
 > NETWORKING: TRY THIS. HI: Best part of your week. LOW: Most challenging. BUFFALO: Something unexpected about you.
 
 
@@ -102,7 +108,7 @@ What did you do? What specific behaviors did you take? (Focus on "I," not the te
 
 What are the results? Numbers, impact, growth—what do people say about you?
 
-# the Three Principles of Marketing
+# Three Principles of Marketing
 
 > Put the Three Principles of Marketing in your Elevator Pitch so people remember you, understand you, and want to help you faster.
 > 
