@@ -1,14 +1,12 @@
-
 ---
 layout: default
-title: "𝙃𝙤𝙬 𝙩𝙤 𝘽𝙪𝙞𝙡𝙙 𝙖 𝙋𝙤𝙬𝙚𝙧𝙛𝙪𝙡 𝙋𝙧𝙤𝙛𝙚𝙨𝙨𝙞𝙤𝙣𝙖𝙡 𝙍𝙚𝙥𝙪𝙩𝙖𝙩𝙞𝙤𝙣"
+title: "How to build a powerful professional reputation"
 description: ""
 tags:
-  - 𝙍𝙚𝙥𝙪𝙩𝙖𝙩𝙞𝙤𝙣
+  - Reputation
   - Mind
   - visibility
   - influence
-  - leadership
 ---
 # I'm done hiding—now I'm shining 
 
