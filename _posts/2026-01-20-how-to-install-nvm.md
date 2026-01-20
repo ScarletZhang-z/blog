@@ -1,25 +1,17 @@
 ---
 layout: default
-title: "How to Install NVM"
+title: "How to Install NVM and Node 24"
 description: ""
 tags:
   - tool
   - nvm
   - node
 ---
-
-# Step 1.1: Web Browser and Editor
-
-If you don't already have these installed, we recommend you download:
-
-- Google Chrome (browser)
-- VSCode (or any alternative on older or slower machines)
-
-# Step 2: Install NVM and Node 24
+# 1. How to Install NVM and Node 24
 
 We use NVM (Node Version Manager) to install and manage Node.js versions. NVM allows you to easily switch between different Node versions, which is helpful when working on multiple projects.
 
-## Step 2.1:  Install NVM
+## Install NVM
 
 ### How to Install NVM on Windows
 
@@ -31,7 +23,7 @@ The official nvm tool primarily supports Linux and macOS. But there's a similar 
 
 In the [nvm-windows repository Readme](https://github.com/coreybutler/nvm-windows#readme), click on "Download Now!":
 
-![adc37b911452395760ac26046ea59fe4](../assets/img/download.png)
+![adc37b911452395760ac26046ea59fe4](/assets/img/download.png)
 
 This will open a page showing different NVM releases.
 
@@ -39,9 +31,9 @@ This will open a page showing different NVM releases.
 
 #### 2. Install the .exe file of the latest release
 
-In the latest release (which as of the time of writing this is [1.1.9](https://github.com/coreybutler/nvm-windows/releases/tag/1.1.9)), you'll find different assets. Click on the **nvm-setup.exe** asset which is the installation file for the tool:
+In the latest release , you'll find different assets. Click on the **nvm-setup.exe** asset which is the installation file for the tool:
 
-![exe](../assets/img/exe.png)
+![exe](/assets/img/exe.png)
 
 
 
@@ -105,7 +97,7 @@ If you see a version number (e.g., `0.40.3`), the installation was successful!
 
 
 
-## Step 2.2:  Installing Node 24
+## 2.Installing Node 24
 
 Once NVM is installed, you can easily install Node.js.
 
@@ -147,7 +139,7 @@ node --version
 
 You should see output like `v24.x.x`.
 
-## Step 2.3: Running Node in the Terminal
+## 3. Running Node in the Terminal
 
 You can run the Node.js interpreter in REPL (Read-Eval-Print Loop) mode. This is a good way to verify that Node.js is installed correctly and to experiment with JavaScript. It works similarly to running `python3` in REPL mode.
 
@@ -155,9 +147,10 @@ Simply open a terminal and type `node` then press Enter. You should see a prompt
 
 Examples of things you could try:
 
-- `console.log('hello world')` – prints hello world, returns undefined
+- `console.log('Hello COMP6080')` – prints Hello COMP6080, returns undefined
 - `3 + 4` – returns 7
 - `const a = 5` – assigns 5 to a variable, returns undefined
 - `a * 2` – returns 10
 
+![node](/assets/img/node.png)
 Press **Ctrl+D** (or **Ctrl+C** twice) to exit REPL mode.
